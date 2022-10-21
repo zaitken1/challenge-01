@@ -15,9 +15,7 @@ This project refactors Horiseon's codebase to ensure their website follows acces
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](assets/images/screenshot.png)
 
 ## Links
 
