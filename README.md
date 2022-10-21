@@ -18,4 +18,5 @@ This project refactors Horiseon's codebase to ensure their website follows acces
 ![alt text](assets/images/horiseon-screenshot.png)
 
 ## Links
-
+Website: https://zaitken1.github.io/horiseon-accessibility/
+GitHub repo: https://github.com/zaitken1/horiseon-accessibility 
